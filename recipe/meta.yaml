@@ -1,5 +1,6 @@
 {% set name = "napari-animation" %}
 {% set version = "0.0.8" %}
+{% set python_min = "3.10" %}
 
 
 package:
