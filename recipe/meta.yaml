@@ -1,5 +1,5 @@
 {% set name = "napari-animation" %}
-{% set version = "0.0.9" %}
+{% set version = "0.0.10" %}
 {% set python_min = "3.10" %}
 
 
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/napari_animation-{{ version }}.tar.gz
-  sha256: ab3b0f7f1a48d5010403889e83ca7ff6d58cdd1ec16d4603418cb55421898410
+  sha256: ce5970f50afd15bb81d7a296ba864c04b1747ce7323994563c3fff38ac318168
 
 build:
   number: 0
